@@ -25,7 +25,10 @@ inverse=np.linalg.inv(A)
 print(inverse)
 ```
 ## Output:
-![output](/inverse%20output.png)
+
+![image](https://github.com/MSDharanish-23011819/INVERSE-OF-A-MATRIX/assets/147139454/7256d0cb-d3db-429f-bc66-4963ecacd415)
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
